@@ -97,11 +97,11 @@ extra:
     #   link: https://twitter.com/AbdellatifBELM
 
 # Repository
-repo_url: https://github.com/abdellatif-belmady/abdellatif-belmady
+repo_url: https://github.com/abdellatif-belmady/Loubna_Portfolio
 edit_uri: edit/source/web/
 
 # Copyright
-copyright: Copyright &copy; 2023 Abdellatif BELMADY
+copyright: Copyright &copy; 2023 Loubna EL BACHARI
 
 
 # Extensions
@@ -138,27 +138,4 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Portfolio: index.md
-  # - Books: books/not yet.md
-    # - Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow: 
-    #   - Preface: books/Hands on machine learning/preface.md
-    #   - The Fundamentals of Machine Learning:
-    #     - The Machine Learning Landscape: books/Hands on machine learning/The Fundamentals of Machine Learning/3.1. The Machine Learning Landscape.md
-    #     - End-to-End Machine Learning Project: books/Hands on machine learning/The Fundamentals of Machine Learning/3.2. End-to-End Machine Learning Project.md
-    #     - Classification: books/Hands on machine learning/The Fundamentals of Machine Learning/3.3. Classification.md
-    #     - Training Models: books/Hands on machine learning/The Fundamentals of Machine Learning/3.4. Training Models.md
-    #     - Support Vector Machines: books/Hands on machine learning/The Fundamentals of Machine Learning/3.5. Support Vector Machines.md
-    #     - Decision Trees: books/Hands on machine learning/The Fundamentals of Machine Learning/3.6. Decision Trees.md
-    #     - Ensemble Learning and Random Forests: books/Hands on machine learning/The Fundamentals of Machine Learning/3.7. Ensemble Learning and Random Forests.md
-    #     - Dimensionality Reduction: books/Hands on machine learning/The Fundamentals of Machine Learning/3.8. Dimensionality Reduction.md
-    #     - Unsupervised Learning Techniques: books/Hands on machine learning/The Fundamentals of Machine Learning/3.9. Unsupervised Learning Techniques.md
-    #   - Neural Networks and Deep Learning:
-    #     - Introduction to Artificial Neural Networks with Keras: books/Hands on machine learning/Neural Networks and Deep Learning/4.1. Introduction to Artificial Neural Networks with Keras.md
-    #     - Training Deep Neural Networks: books/Hands on machine learning/Neural Networks and Deep Learning/4.2. Training Deep Neural Networks.md
-    #     - Custom Models and Training with TensorFlow: books/Hands on machine learning/Neural Networks and Deep Learning/4.3. Custom Models and Training with TensorFlow.md
-    #     - Custom Models and Training with TensorFlow: books/Hands on machine learning/Neural Networks and Deep Learning/4.4. Loading and Preprocessing Data with TensorFlow.md
-    #     - Deep Computer Vision Using Convolutional Neural Networks: books/Hands on machine learning/Neural Networks and Deep Learning/4.5. Deep Computer Vision Using Convolutional Neural Networks.md
-    #   - About the Author: books/Hands on machine learning/About the Author.md
-    #   - Colophon: books/Hands on machine learning/Colophon.md
-  - Services: services/documentation.md
-    # - Creation of professional documentation: services/documentation.md
+  - index.md
